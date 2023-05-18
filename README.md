@@ -1,6 +1,7 @@
 - 👋 Olá, sou @LeandroAndrekowicz tenho 22 anos
 - 👀 Sou apaixonado pela tecnologia e meu foco na programação está sendo no backend!
-- 🌱 No momentos estou aprendendo a linguagem de programação JAVA
+- 🌱 Já passei por algumas linguagens de programação, como Python, Java e JavaScript
+- ✨ Atualmente estou focado em aplicações Web, com React e NodeJS
 
 <!---
 LeandroAndrekowicz/LeandroAndrekowicz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
