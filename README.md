@@ -1,7 +1,7 @@
 
 
 - 👋 Olá, sou @LeandroAndrekowicz tenho 22 anos
-- 👀 Sou apaixonado pela tecnologia e meu foco na programação está sendo no backend!
+- 👀 Sou apaixonado pela tecnologia e meu foco na programação está sendo no FrontEnd!
 - 🌱 Já passei por algumas linguagens de programação, como Python, Java e JavaScript
 
 
