@@ -11,7 +11,7 @@
 
 ## Editor
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" width="60" height="60">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60">
 
 <div>
 <a href="https://github.com/LeandroAndrekowicz">
