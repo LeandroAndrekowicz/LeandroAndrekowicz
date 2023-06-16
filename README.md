@@ -1,3 +1,5 @@
+<div style="background-color:#00BFFF;text-align:center">
+
 - 👋 Olá, sou @LeandroAndrekowicz tenho 22 anos
 - 👀 Sou apaixonado pela tecnologia e meu foco na programação está sendo no backend!
 - 🌱 Já passei por algumas linguagens de programação, como Python, Java e JavaScript
@@ -18,3 +20,4 @@
 </div>
 
   ![Snake animation](https://github.com/LeandroAndrekowicz/LeandroAndrekowicz/blob/output/github-contribution-grid-snake.svg)
+  </div>
