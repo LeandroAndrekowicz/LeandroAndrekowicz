@@ -3,7 +3,9 @@
 - 🌱 Já passei por algumas linguagens de programação, como Python, Java e JavaScript
 - ✨ Atualmente estou focado em aplicações Web, com React e NodeJS
 
-<!---
-LeandroAndrekowicz/LeandroAndrekowicz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://www.linkedin.com/in/leandro-andrekowicz-877b81236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+![Snake animation](https://github.com/LeandroAndrekowicz/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
