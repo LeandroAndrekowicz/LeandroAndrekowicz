@@ -1,12 +1,11 @@
 - 👋 Olá, sou @LeandroAndrekowicz tenho 22 anos
 - 👀 Sou apaixonado pela tecnologia e meu foco na programação está sendo no backend!
 - 🌱 Já passei por algumas linguagens de programação, como Python, Java e JavaScript
-- ✨ Atualmente estou focado em aplicações Web, com React e NodeJS
-<div>
-  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-          
- </div>
+
+
+## Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 
 <div>
