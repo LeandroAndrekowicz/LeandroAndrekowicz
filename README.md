@@ -1,4 +1,4 @@
-<div style="background-color:#00BFFF;text-align:center">
+<div style="background-color:#00BFF">
 
 - 👋 Olá, sou @LeandroAndrekowicz tenho 22 anos
 - 👀 Sou apaixonado pela tecnologia e meu foco na programação está sendo no backend!
