@@ -3,8 +3,8 @@
 - 👋 Olá, sou @LeandroAndrekowicz tenho 23 anos
 - 👀 Sou apaixonado pela tecnologia e meu foco na programação está sendo no FrontEnd!
 - 🌱 Já passei por algumas linguagens de programação, como Python, Java e JavaScript
-- 🧑‍💻 Atualmente estou desenvolvendo em React-JS na Pormade Portas
-- 👨‍🎓 Estudando Flutter e Dart.
+- 🧑‍💻 Atualmente estou desenvolvendo em React-JS e Nest-JS na Pormade Portas
+- 👨‍🎓 Estudando API's REST em Nest-JS.
 
 
 ## Estou aprendendo
