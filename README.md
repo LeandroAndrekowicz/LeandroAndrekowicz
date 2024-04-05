@@ -4,11 +4,11 @@ Prazer...
 </h1>
 
 <p>
-	👋 Me chamo @LeandroAndrekowicz tenho 23 anos e sou apaixonado pela tecnologia. Meu foco na programação está sendo no BackEnd!
- 	🌱 Já passei por algumas linguagens de programação, como Python, Java e JavaScript,
-	C#, entre outras. 
-	🎓 Atualmente estou estudando API's REST em Nest-JS com TypeScript.
-	💻 Atualmente sou Desenvolvedor Junior na empresa Pormade Portas. 
+	👋 Me chamo @LeandroAndrekowicz tenho 23 anos e sou apaixonado pela tecnologia. Meu foco na programação está sendo no BackEnd! <br>
+ 	🌱 Já passei por algumas linguagens de programação, como Python, Java e JavaScript, 
+	C#, entre outras. <br>
+	🎓 Atualmente estou estudando API's REST em Nest-JS com TypeScript. <br>
+	💻 Atualmente sou Desenvolvedor Junior na empresa Pormade Portas. <br>
 </p>
 
 <div style="display: flex; flex-direction: column; width: 100%; align-items: center">
