@@ -31,7 +31,7 @@ Prazer...
 
 ## Front-End
 
-<div style="display: flex; justify-content: space-between">
+<div style="display: flex; justify-content: space-between; width: 100%">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="60" height="60">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60">
@@ -41,7 +41,7 @@ Prazer...
 	</div>
 	
 ## Back-End
-<div style="display: flex; justify-content: space-between">
+<div style="display: flex; justify-content: space-between; width: 100%">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="60" height="60">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60">
@@ -50,14 +50,14 @@ Prazer...
 </div>
 
 ##Gerenciador de Pacotes
-<div style="display: flex; justify-content: space-around">
+<div style="display: flex; justify-content: space-around; width: 100%">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60" height="60">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" width="60" height="60">
 	</div>
 </div>
 
 ##Sistemas Operacionais
-<div style="display: flex; justify-content: space-around">
+<div style="display: flex; justify-content: space-around; width: 100%">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="60" height="60">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="60" height="60">
