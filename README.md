@@ -15,8 +15,8 @@ Prazer...
 
 <div width= '100%'>
 	<a href="https://github.com/LeandroAndrekowicz">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroAndrekowicz&layout=compact&langs_count=7&theme=dracula"  width= '50%'/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroAndrekowicz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"  width= '50%'/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroAndrekowicz&layout=compact&langs_count=7&theme=dracula"  width= '40%'/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroAndrekowicz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"  width= '40%'/>
 </div>
 
 
