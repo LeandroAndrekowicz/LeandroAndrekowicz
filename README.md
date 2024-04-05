@@ -13,12 +13,10 @@ Prazer...
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leandroandrekowicz&theme=dracula)](https://github.com/leandroandrekowicz/github-readme-activity-graph)
 
-<div width="100%"  height: "50vh">
-	<a href="https://github.com/LeandroAndrekowicz" >
-		<img  style="width: 100%;  height: 50vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroAndrekowicz&layout=compact&langs_count=7&theme=dracula"/>
-	<a  href="https://github.com/LeandroAndrekowicz">
-		<img style="width: 100%;  height: 50vh;" src="https://github-readme-stats.vercel.app/api?username=LeandroAndrekowicz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-	</a>
+<div>
+	<a href="https://github.com/LeandroAndrekowicz">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroAndrekowicz&layout=compact&langs_count=7&theme=dracula"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroAndrekowicz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
