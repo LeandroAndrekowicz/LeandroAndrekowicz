@@ -45,14 +45,14 @@ Prazer...
 	</div>
 </div>
 
-##Gerenciador de Pacotes
+## Gerenciador de Pacotes
 <div style="display: flex; justify-content: space-around; width: 100%">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60" height="60">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" width="60" height="60">
 	</div>
 </div>
 
-##Sistemas Operacionais
+## Sistemas Operacionais
 <div style="display: flex; justify-content: space-around; width: 100%">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="60" height="60">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60">
