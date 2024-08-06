@@ -4,7 +4,7 @@ Prazer...
 </h1>
 
 <p>
-	👋 Me chamo @LeandroAndrekowicz tenho 23 anos e sou apaixonado pela tecnologia. Meu foco na programação está sendo no BackEnd! <br>
+	👋 Me chamo @LeandroAndrekowicz tenho 24 anos e sou apaixonado pela tecnologia. Meu foco na programação está sendo no BackEnd! <br>
  	🌱 Já passei por algumas linguagens de programação, como Python, Java e JavaScript, 
 	C#, entre outras. <br>
 	🎓 Atualmente estou estudando API's REST em Nest-JS com TypeScript. <br>
