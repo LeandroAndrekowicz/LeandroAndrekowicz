@@ -1,15 +1,16 @@
-<div style="display: flex; flex-direction: column; width: 100%">
-<h1>
-Prazer...
-</h1>
-
-<p>
-	👋 Me chamo @LeandroAndrekowicz tenho 24 anos e sou apaixonado pela tecnologia. Meu foco na programação está sendo no BackEnd! <br>
- 	🌱 Já passei por algumas linguagens de programação, como Python, Java e JavaScript, 
-	C#, entre outras. <br>
-	🎓 Atualmente estou estudando API's REST em Nest-JS com TypeScript. <br>
-	💻 Atualmente sou Desenvolvedor Junior na empresa Pormade Portas. <br>
-</p>
+<h1> Hello Dev </h1> 
+<div align="center">
+	<img 	src="https://64.media.tumblr.com/ddd22fe10a485ed56a46d958c058a970/tumblr_n9lnpepqkW1scncwdo1_500.gif" /> 
+</div>
+<div style="flex: 1; padding-right: 10px;">
+    <p>
+		    Me chamo @LeandroAndrekowicz e tenho 24 anos <br>
+			Sou completamente apaixonado pela tecnologia e meu foco na programação está sendo no BackEnd! <br>
+			 Já passei por algumas linguagens de programação, como Python, Java e JavaScript, 
+			C#, entre outras porém atualmente estou trabalhando com a JavaScript no Framework Nest-JS com TypeScript. <br>
+			 Atualmente meu cargo é Desenvolvedor Junior na empresa Pormade Portas. <br>
+	</p>
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leandroandrekowicz&theme=dracula)](https://github.com/leandroandrekowicz/github-readme-activity-graph)
 
