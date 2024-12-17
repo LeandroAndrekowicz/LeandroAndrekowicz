@@ -22,7 +22,9 @@
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin-top: 20px;">
   <p style="font-size: 18px; font-weight: bold; color: #333;">Meu Currículo</p>
-  [![Acessar Currículo](https://img.shields.io/badge/Acessar%20Curr%C3%ADculo-%2300FFFF?style=for-the-badge)](https://curriculo-ecru.vercel.app/)
+  <a href="https://curriculo-ecru.vercel.app/" style="text-decoration: none; background-color: #55A3AB; color: white; padding: 15px 32px; font-size: 16px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: background-color 0.3s, transform 0.3s; display: inline-block; margin-top: 10px;" onmouseover="this.style.backgroundColor='#29738F'; this.style.transform='scale(1.05)';" onmouseout="this.style.backgroundColor='#55A3AB'; this.style.transform='scale(1)';">
+    Acessar Currículo
+  </a>
 </div>
 
 ## Editores
@@ -65,3 +67,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="60" height="60" alt="Ubuntu" />
 </div>
+
+## Habilidades e Tecnologias
+
+- **Linguagens de Programação:** Python, JavaScript, TypeScript, Java, C#, PHP
+- **Frameworks:** React, Node.js, NestJS, Express
+- **Ferramentas:** Git, Docker, Postman, Jest
+- **Bancos de Dados:** MySQL, PostgreSQL, MongoDB
+
+## Contato
+
+- **LinkedIn:** [LeandroAndrekowicz](https://www.linkedin.com/in/leandroandrekowicz/)
+- **GitHub:** [LeandroAndrekowicz](https://github.com/LeandroAndrekowicz)
+- **Email:** leandro.andrekowicz@gmail.com
+
+---
+
+Se você quiser saber mais ou entrar em contato, fique à vontade para me procurar! 🚀
