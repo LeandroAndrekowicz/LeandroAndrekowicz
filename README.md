@@ -13,16 +13,16 @@
   </p>
 </div>
 
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin-top: 20px;">
+  <a href="https://curriculo-ecru.vercel.app/" style="text-decoration: none; background-color: #55A3AB; color: white; padding: 15px 32px; font-size: 16px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: background-color 0.3s, transform 0.3s; display: inline-block; margin-top: 10px; margin-bottom: 40px" onmouseover="this.style.backgroundColor='#29738F'; this.style.transform='scale(1.05)';" onmouseout="this.style.backgroundColor='#55A3AB'; this.style.transform='scale(1)';">
+    Acessar Currículo
+  </a>
+</div>
+
 <div align="center">
   <a href="https://github.com/LeandroAndrekowicz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroAndrekowicz&layout=compact&langs_count=7&theme=dracula" width="40%" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroAndrekowicz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="40%" />
-  </a>
-</div>
-
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin-top: 20px;">
-  <a href="https://curriculo-ecru.vercel.app/" style="text-decoration: none; background-color: #55A3AB; color: white; padding: 15px 32px; font-size: 16px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: background-color 0.3s, transform 0.3s; display: inline-block; margin-top: 10px; margin-bottom: 40px" onmouseover="this.style.backgroundColor='#29738F'; this.style.transform='scale(1.05)';" onmouseout="this.style.backgroundColor='#55A3AB'; this.style.transform='scale(1)';">
-    Acessar Currículo
   </a>
 </div>
 
