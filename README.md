@@ -21,8 +21,8 @@
 </div>
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin-top: 20px;">
-  <p style="font-size: 18px; font-weight: bold; color: #333;">Meu Currículo</p>
   <a href="https://curriculo-ecru.vercel.app/" style="text-decoration: none; background-color: #55A3AB; color: white; padding: 15px 32px; font-size: 16px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: background-color 0.3s, transform 0.3s; display: inline-block; margin-top: 10px;" onmouseover="this.style.backgroundColor='#29738F'; this.style.transform='scale(1.05)';" onmouseout="this.style.backgroundColor='#55A3AB'; this.style.transform='scale(1)';">
+    Acessar Currículo
   </a>
 </div>
 
