@@ -1,62 +1,80 @@
-<h1> Hello Dev </h1> 
+<h1 style="text-align: center; font-size: 2.5em; color: #333;">Hello Dev</h1>
+
 <div align="center">
-	<img 	src="https://64.media.tumblr.com/ddd22fe10a485ed56a46d958c058a970/tumblr_n9lnpepqkW1scncwdo1_500.gif" /> 
-</div>
-<div style="flex: 1; padding-right: 10px;">
-    <p>
-		    Me chamo @LeandroAndrekowicz e tenho 24 anos <br>
-			Sou completamente apaixonado pela tecnologia e meu foco na programação está sendo no BackEnd! <br>
-			 Já passei por algumas linguagens de programação, como Python, Java e JavaScript, 
-			C#, entre outras porém atualmente estou trabalhando com a JavaScript no Framework Nest-JS com TypeScript. <br>
-			 Atualmente meu cargo é Desenvolvedor Junior na empresa Pormade Portas. <br>
-	</p>
+  <img src="https://64.media.tumblr.com/ddd22fe10a485ed56a46d958c058a970/tumblr_n9lnpepqkW1scncwdo1_500.gif" alt="Gif de introdução" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leandroandrekowicz&theme=dracula)](https://github.com/leandroandrekowicz/github-readme-activity-graph)
-
-<div width= '100%'>
-	<a href="https://github.com/LeandroAndrekowicz">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroAndrekowicz&layout=compact&langs_count=7&theme=dracula"  width= '40%'/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroAndrekowicz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"  width= '40%'/>
+<div style="padding: 20px; text-align: center;">
+  <p style="font-size: 1.2em; color: #333;">
+    Me chamo @LeandroAndrekowicz e tenho 24 anos.<br>
+    Sou completamente apaixonado pela tecnologia e meu foco na programação está sendo no BackEnd!<br>
+    Já passei por algumas linguagens de programação, como Python, Java e JavaScript, C#, entre outras. Porém, atualmente, estou trabalhando com JavaScript no Framework Nest-JS com TypeScript.<br>
+    Atualmente, meu cargo é Desenvolvedor Junior na empresa Pormade Portas.<br>
+  </p>
 </div>
 
-
-
-## Editores
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60">
-
-## Front-End
-
-<div style="display: flex; justify-content: space-between; width: 100%">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="60" height="60">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60">
-	</div>
-	
-## Back-End
-<div style="display: flex; justify-content: space-between; width: 100%">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="60" height="60">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60">
-	</div>
+<div align="center">
+  <a href="https://github.com/LeandroAndrekowicz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroAndrekowicz&layout=compact&langs_count=7&theme=dracula" width="40%" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroAndrekowicz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="40%" />
+  </a>
 </div>
 
-## Gerenciador de Pacotes
-<div style="display: flex; justify-content: space-around; width: 100%">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60" height="60">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" width="60" height="60">
-	</div>
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin-top: 20px;">
+  <p style="font-size: 18px; font-weight: bold; color: #333;">Meu Currículo</p>
+  <a href="https://curriculo-ecru.vercel.app/" style="text-decoration: none;">
+    <button style="
+      background-color: #55A3AB;
+      color: white;
+      border: none;
+      padding: 15px 32px;
+      text-align: center;
+      font-size: 16px;
+      margin-top: 10px;
+      cursor: pointer;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      transition: background-color 0.3s, transform 0.3s;
+    "
+    onmouseover="this.style.backgroundColor='#29738F'; this.style.transform='scale(1.05)';"
+    onmouseout="this.style.backgroundColor='#55A3AB'; this.style.transform='scale(1)';">
+      Acessar Currículo
+    </button>
+  </a>
 </div>
 
-## Sistemas Operacionais
-<div style="display: flex; justify-content: space-around; width: 100%">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="60" height="60">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="60" height="60">
-	</div>
+<h2 style="text-align: center; margin-top: 40px;">Editores</h2>
+<div style="text-align: center; margin-bottom: 40px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" alt="VS Code">
+</div>
+
+<h2 style="text-align: center;">Front-End</h2>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="60" height="60" alt="Vite">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="60" height="60" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript">
+</div>
+
+<h2 style="text-align: center;">Back-End</h2>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" alt="Node.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="60" height="60" alt="NestJS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" alt="C#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" alt="Python">
+</div>
+
+<h2 style="text-align: center;">Gerenciador de Pacotes</h2>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60" height="60" alt="npm">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" width="60" height="60" alt="Yarn">
+</div>
+
+<h2 style="text-align: center;">Sistemas Operacionais</h2>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="60" height="60" alt="Windows 11">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60" height="60" alt="Linux">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="60" height="60" alt="Ubuntu">
 </div>
