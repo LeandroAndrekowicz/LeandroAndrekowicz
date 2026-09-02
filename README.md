@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:244854,100:7FD8E8&height=220&section=header&text=Leandro%20Andrekowicz&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend&descAlignY=55&descSize=22&descColor=E4D8B4)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=7FD8E8&background=00000000&center=true&vCenter=true&width=600&lines=Node.js+%7C+NestJS+%7C+TypeScript;24+anos+%7C+Dev+Jr+na+Pormade+Portas;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=7FD8E8&background=00000000&center=true&vCenter=true&width=600&lines=Node.js+%7C+NestJS+%7C+TypeScript;Estudante+%7C+Futuro+Dev+Flutter;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://64.media.tumblr.com/ddd22fe10a485ed56a46d958c058a970/tumblr_n9lnpepqkW1scncwdo1_500.gif" width="140" alt="Squirtle" />
 
@@ -12,7 +12,7 @@
 
 Me chamo **Leandro Andrekowicz**, tenho 24 anos e sou apaixonado por tecnologia, com foco em **Back-End**.
 
-Já passei por Python, Java, JavaScript e C#, mas hoje trabalho principalmente com **JavaScript/TypeScript** no framework **NestJS**. Atualmente sou **Desenvolvedor Júnior** na **Pormade Portas**.
+Já passei por Python, Java, JavaScript e C#, mas hoje trabalho principalmente com **JavaScript/TypeScript** no framework **NestJS**. Sou **estudante** e estou me especializando em **Flutter** para me tornar Desenvolvedor Mobile.
 
 <div align="center">
 
@@ -46,6 +46,11 @@ Já passei por Python, Java, JavaScript e C#, mas hoje trabalho principalmente c
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Mobile** 🚀 *(em estudo)*
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Banco de Dados**
 
